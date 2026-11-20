@@ -1,10 +1,8 @@
-<img src="examples/example_faltmuster.jpg" alt="Folded Book Result" align="right" width="180">
-
 # tBookFold 📖✨
 
 A simple Python tool to convert black-and-white images into custom **book folding patterns**.
-
-<br clear="right"/>
+<br>
+<img src="examples/example_faltmuster.jpg" alt="Folded Book Result" width="500">
 
 ## 🚀 Getting Started
 
