@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!bookfold.py
+!requirements.txt
+!examples/
+!examples/**
+!README.md
