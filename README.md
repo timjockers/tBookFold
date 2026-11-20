@@ -19,8 +19,7 @@ Import and run the `create` function from `bookfold.py` to generate your pattern
 ```python
 from bookfold import create
 
-# Example usage (see examples/ folder for full script)
-create("examples/ornament.jpg")
+create("examples/ornament.jpg", 3, 477, 190)
 ```
 
 ## 📂 Examples
@@ -37,13 +36,7 @@ Check out the `examples/` folder for a sample input image, the corresponding Pyt
       <img src="examples/ornament.jpg" alt="Original Ornament Image" width="100%">
     </td>
     <td align="center">
-      <!-- Hinweis: GitHub rendert PDFs nicht direkt in <img>-Tags. 
-           Speichere die 1. Seite als PNG (z. B. ornament_preview.png) für eine direkte Bildvorschau: -->
-      <a href="examples/ornament_faltmuster.pdf#page=1">
-        <img src="examples/ornament_preview.png" alt="Book Fold Pattern Preview (Page 1)" width="100%">
-      </a>
-      <br>
-      <a href="examples/ornament_faltmuster.pdf#page=1">📄 View PDF (Page 1)</a>
+      <img src="examples/example_faltmuster.jpg" alt="First page of created PDF" width="100%">
     </td>
   </tr>
 </table>
